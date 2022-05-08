@@ -3,7 +3,7 @@
 
 ## Introducción
 
-El presente proyecto esta es un código escrito en Python con el cual se presenta la pagina web “Agro Analisis”, en donde se visualizan el pos proseado  de datos ambientales, con el fin de ayudar a agricultores en la determinación de la mejor zona y temporada para sembrar sus cultivos, esto se hizo aparir de datos obtenidos de estaciones meteorológicas EVAs.
+El presente proyecto esta es un código escrito en Python con el cual se presenta la pagina web “Print-Plant”, en donde se visualizan el pos proseado  de datos ambientales, con el fin de ayudar a agricultores en la determinación de la mejor zona y temporada para sembrar sus cultivos, esto se hizo aparir de datos obtenidos de estaciones meteorológicas EVAs.
 
 ## Características
 
