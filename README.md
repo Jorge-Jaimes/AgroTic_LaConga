@@ -41,7 +41,10 @@ En este código se encuentran las funciones con las cuales se discriminan los da
 
 El código al cual se le inyectan el dataframe de los resultados obtenidos en el análisis de datos, este código genera una pagina web en donde se presenta una visualización amigable al usuario de los resultados obtenidos
 
-##Autores 
+## Autores
+
 Jorge  Jaimes
-Kevin Dlaikan   
+
+Kevin Dlaikan
+
 Luigui Miranda
