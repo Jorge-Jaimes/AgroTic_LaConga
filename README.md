@@ -48,3 +48,5 @@ Jorge  Jaimes
 Kevin Dlaikan
 
 Luigui Miranda
+
+Diapositivas: https://www.canva.com/design/DAFAGvLof7k/mPCXcOi-1qLqGvAqhLb4mQ/view?utm_content=DAFAGvLof7k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
