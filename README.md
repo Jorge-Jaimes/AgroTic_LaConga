@@ -1,4 +1,11 @@
-# AgroTic_LaConga
+
+
+<h1 align="center"> Print-Plant </h1> <br>
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://i.postimg.cc/mgQ89jDb/Printl-Plant.png)](https://postimg.cc/21SQR4hJ" width="450">
+  </a>
+</p>
 
 
 ## Introducción
